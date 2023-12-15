@@ -1,7 +1,31 @@
 
-whitespace über settings auf render all stellen.
+## VSCode Tipps:
 
-Hotkeys:
+### Extensions installieren:
+Es sollte auf jedenfall die Erweiterung "Python" installiert sein.
 
-Zeile dublizieren: Alt + Umschalt(Shift) + Pfeil Oben/Unten
-Speichern: Strg + S
+Optional können wir das "Python Extension Pack" installieren um ein paar nützlich tools auf einmal zu bekommen.
+
+### Leerzeichen anzeigen lassen:
+Wir können den Editor so einstellen das an den Stellen wo Leerzeichen sind ein grauer Punkt gezeigt wird.
+In den Einstellungen von VSCode(Zahnrad Links unten) auf Settings gehen und dann in der suche "whitespace" eingeben.
+Wir sollten dann als erste option die Einstellung für Render Whitespace sehen mit einem Dropdown Menü. Hier können wir auf "all umstellen". Damit sollten wir in der lage sein Leerzeichen als Punkte zu sehen.
+
+
+
+## Hotkeys:
+
+Zeile dublizieren:      Alt + Umschalt(Shift) + Pfeil Oben/Unten
+Speichern:              Strg + S
+Zeile auskommentieren:  Strg + #
+
+## Nützliche Webseiten:
+
+https://docs.python.org/3.12/
+
+https://www.w3schools.com/python/
+
+https://www.hackerrank.com/
+https://www.codewars.com/
+
+https://www.freecodecamp.org/ (kann auch auf Deutsch gestellt werden)
