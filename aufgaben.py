@@ -117,3 +117,18 @@ os.system('cls')
 # print(subtraktion)
 # print(multiplikation)
 # print(division)
+
+# Aufgabe 5: ---------------------------
+
+# Hier ist ein Code der nicht Funktioniert, es haben sich 9 Fehler eingeschlichen, kannst du sie finden?:
+
+
+# alter = int(input("Bitte gib dein Alter ein: "))
+
+# if alter <= 17:
+
+#     print("Du bist zu jung für diesen Film")
+
+# else:
+
+#     print("Viel Spaß beim Film")

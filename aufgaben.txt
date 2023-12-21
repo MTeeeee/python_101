@@ -82,3 +82,23 @@ print(Du bist zu jung für diesen Film)
 else
 
 print("Viel Spaß beim Film")
+
+
+Aufgabe 6 : ---------------------------
+
+
+Übernehme folgenden Code und vervollständige Ihn so, dass das Programm die Rechenmethode überprüft.
+Bei einem "+" soll eine Addition durchgeführt werden und bei einem "-" eine Subtraktion
+
+zahl_1 = 20
+zahl_2 = 10
+rechenmethode = "+"
+
+###################
+
+
+
+
+###################
+
+print(ergebnis)
