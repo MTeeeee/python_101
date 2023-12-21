@@ -37,3 +37,32 @@ Das Ergebnis der Addition lautet: z
 ´´´
 
 Hinweis: xyz sollen durch Zahlen ersetzt werden.
+
+Aufgabe 4 : ------------------------
+
+a)
+
+Übernehme folgenden Code und vervollständige ihn:
+
+zahl_1 = 20
+zahl_2 = 10
+
+###################
+# ändere den Code hier: 
+# (es dürfen Zeilen hinzugefügt werden)
+
+
+
+###################
+
+print(ergebnis_addition)
+print(ergebnis_subtraktion)
+print(ergebnis_multiplikation)
+print(ergebnis_division)
+
+
+b)
+
+Ändere den Code so, das der Nutzer zu Beginn nach den Zahl 1 und Zahl 2 gefragt wird.
+
+tipp: https://www.w3schools.com/python/python_casting.asp

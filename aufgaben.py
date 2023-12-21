@@ -37,17 +37,41 @@ os.system('cls')
 # Erstelle 4 primitive Varaiblen String, Integer, Float und Boolean und überprüfe sie mit obrigen Befehl.
 
 # integer
-integer_variable = 42
-print("type_integer:", type(integer_variable))
+# integer_variable = 42
+# print("type_integer:", type(integer_variable))
 
-# float
-float_variable = 3.14
-print("type_float:", type(float_variable))
+# # float
+# float_variable = 3.14
+# print("type_float:", type(float_variable))
 
-# string
-string_variable = "Hello world"
-print("type_string:", type(string_variable))
+# # string
+# string_variable = "Hello world"
+# print("type_string:", type(string_variable))
 
-# boolean
-boolean_variable = True
-print("type_boolean:", type(boolean_variable))
+# # boolean
+# boolean_variable = True
+# print("type_boolean:", type(boolean_variable))
+
+
+# Aufgabe 3: ------------------------
+
+
+# Erstelle zwei Variablen mit jeweils einer Zahl.
+# Erstelle eine neue Variable namens ergebnis.
+# ergebnis soll die addition der beiden Zahlen enthalten.
+
+# Die Ausgabe soll sagen:
+# ´´´
+# Zahl 1 ist x
+# Zahl 2 ist y
+# Das Ergebnis der Addition lautet: z
+# ´´´
+
+# Hinweis: xyz sollen durch Zahlen ersetzt werden.
+
+# zahl1 = 5
+# zahl2 = 200
+# ergebnis = zahl1 + zahl2
+# print("Zahl 1 ist", zahl1)
+# print("Zahl 2 ist", zahl2)
+# print("Das Ergebnis der komplizierten Rechnung lautet:", ergebnis)
