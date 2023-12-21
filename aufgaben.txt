@@ -11,3 +11,14 @@ Schreibe einen Befehl der ausgibt: "Hallo mein Name ist <name>" und die Variable
 c)
 Schreibe es so um, dass der Nutzer zunächst nach seinem Namen gefragt wird und dann die Antwort bekommt "Hallo <Name> schön das du da bist."
 tipp: input()
+
+Aufgabe 2: ------------------------
+
+Nutze die Built-in Funktion type().
+Bsp.:
+x = 5
+type_of_x = type(x)
+print(type_of_x)
+
+Erstelle 4 primitive Varaiblen String, Integer, Float und Boolean und überprüfe sie mit obrigen Befehl.
+
