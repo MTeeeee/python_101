@@ -1,3 +1,6 @@
+import os
+os.system('cls')
+
 # Aufgabe 1: ------------------------
 
 # a)
@@ -21,3 +24,30 @@
 
 # user_name = input("what is your name \n \n \n")
 # print("hallo " + user_name)
+
+
+# Aufgabe 2: ------------------------
+
+# Nutze die Built-in Funktion type().
+# Bsp.:
+# x = 5
+# type_of_x = type(x)
+# print(type_of_x)
+
+# Erstelle 4 primitive Varaiblen String, Integer, Float und Boolean und überprüfe sie mit obrigen Befehl.
+
+# integer
+integer_variable = 42
+print("type_integer:", type(integer_variable))
+
+# float
+float_variable = 3.14
+print("type_float:", type(float_variable))
+
+# string
+string_variable = "Hello world"
+print("type_string:", type(string_variable))
+
+# boolean
+boolean_variable = True
+print("type_boolean:", type(boolean_variable))

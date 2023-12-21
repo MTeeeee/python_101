@@ -22,3 +22,18 @@ print(type_of_x)
 
 Erstelle 4 primitive Varaiblen String, Integer, Float und Boolean und überprüfe sie mit obrigen Befehl.
 
+Aufgabe 3: ------------------------
+
+
+Erstelle zwei Variablen mit jeweils einer Zahl.
+Erstelle eine neue Variable namens ergebnis.
+ergebnis soll die addition der beiden Zahlen enthalten.
+
+Die Ausgabe soll sagen:
+´´´
+Zahl 1 ist x
+Zahl 2 ist y
+Das Ergebnis der Addition lautet: z
+´´´
+
+Hinweis: xyz sollen durch Zahlen ersetzt werden.
