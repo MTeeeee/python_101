@@ -102,3 +102,16 @@ rechenmethode = "+"
 ###################
 
 print(ergebnis)
+
+
+Aufgabe 7 : ---------------------------
+
+Wir haben zwei Variablen auto und farbe.
+Wir wissen das auto entweder BMW oder Mercedes sein kann.
+Der BMW kann entweder weiß oder blau sein.
+Der Mercedes kann entweder rot oder schwarz sein.
+Schreibe ein Skrip, welches Auto und Farbe prüft und für jede Kombination eine passende Ausgabe gibt:
+Bsp. "Es ist ein weißer BMW"
+Dabei sollen if Bedingungen verschachtelt genutzt werden.
+Falls Auto oder Farbe nicht bekannt sind, soll entsprechend "Auto/Farbe nicht bekannt" ausgegeben werden.
+
