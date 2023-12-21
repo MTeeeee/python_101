@@ -17,7 +17,16 @@ Wir sollten dann als erste option die Einstellung für Render Whitespace sehen m
 
 Zeile dublizieren:      Alt + Umschalt(Shift) + Pfeil Oben/Unten
 Speichern:              Strg + S
-Zeile auskommentieren:  Strg + #
+Zeile aus-/einkommentieren:  Strg + #
+Letzte Veränderung rückgängig machen: Strg + z
+Letzte Veränderung wiederherstellen machen: Strg + y
+
+Kopieren:       Strg + c
+Ausschneiden:   Strg + x
+// Tipp: Ausgeschnittenes wie auch Kopiertes kann eingefügt werden
+Einfügen:       Strg + v
+
+
 
 ## Nützliche Webseiten:
 

@@ -17,7 +17,7 @@ xxx = "Hello World"
 # print(xxx)
 
 # Ein paar regeln für Variablen:
-# Enhalten können sie die Zeichen A-z, 0-9 und _(Unterstrich)
+# Enthalten können sie die Zeichen A-Z, a-z, 0-9 und _(Unterstrich)
 # Der erste Buchstabe muss klein sein, (sie können auch mit einem "_" beginnen, was in der Praxis für spezielle Fälle genutzt wird)
 # Sie dürfen auch nicht mit einer Zahl beginnen
 # Variablen sidn "case-sensitive", man muss genau auf Groß- und Kleinscheibung achten.

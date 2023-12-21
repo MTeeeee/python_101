@@ -4,22 +4,24 @@
 
 # Nehmen wir an das ein script soll überprüfen wer wir sind und uns nur reinlassen wenn es uns kennt.
 
-print("")
+# print("")
 
-name = "Steve"
+# alter = int(input("Bitte gib dein Alter ein: "))
 
-if name == "Tony":
-    print("Hallo Tony!")
-    # weitere Schritte
-elif name == "Steve":
-    print("Hallo Steve!")
-else:
-    print("Du bist weder Tony noch Steve!")
+# # alter_als_zahl = int(alter)
 
-if name != "Tony": # Verneinung
-    print("Du bist nicht Tony!")
-else:
-    print("Du musst wohl Tony sein.")
+# if alter == 7:
+#     print("Du bist 7")
+#     # weitere Schritte
+# elif alter == 10:
+#     print("Du bist 10")
+# else:
+#     print("Du bist weder 7 noch 10")
+
+# if name != "Tony": # Verneinung
+#     print("Du bist nicht Tony!")
+# else:
+#     print("Du musst wohl Tony sein.")
 
 
 # Hierzu einpaar Vergleichs Operatoren
@@ -35,15 +37,16 @@ else:
 # name = input("Wie heißt du? ")
 # print("Hallo " + name)
 
-alter = 5
+# alter = 5
+
 # alter = input("Wie alt bist du?")
 
-zahl = int(alter)
+# zahl = int(alter)
     
-if zahl >= 18:
-    print("Du bist volljährig")
-else:
-    print("Du bist noch nicht Volljährig!")
+# if zahl >= 18:
+#     print("Du bist volljährig")
+# else:
+#     print("Du bist noch nicht Volljährig!")
     
 ########################################################
 
@@ -57,10 +60,12 @@ else:
 # not
 
 first_name = "Tony"
+uhrzeit = 9
+
 last_name = "Stark"
 
-if name == "Tony" and last_name == "Stark":
-    print("welcome")
+if first_name == "Tony" and uhrzeit <= 8:
+    print("Welcome!")
 else:
     print("Alert!")
 
