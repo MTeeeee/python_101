@@ -75,3 +75,45 @@ os.system('cls')
 # print("Zahl 1 ist", zahl1)
 # print("Zahl 2 ist", zahl2)
 # print("Das Ergebnis der komplizierten Rechnung lautet:", ergebnis)
+
+
+# Aufgabe 4 : ------------------------
+
+# a)
+
+# Übernehme folgenden Code und vervollständige ihn:
+
+# a)
+
+# zahl_1 = 20
+# zahl_2 = 10
+
+# ###################
+# # ändere den Code hier: 
+# # (es dürfen Zeilen hinzugefügt werden)
+# # ändere den Code hier:
+# ergebnis_addition = zahl_1 + zahl_2
+# ergebnis_subtraktion = zahl_1 - zahl_2
+# ergebnis_multiplikation = zahl_1 * zahl_2
+# ergebnis_division = zahl_1 / zahl_2
+
+# ###################
+
+# print(ergebnis_addition)
+# print(ergebnis_subtraktion)
+# print(ergebnis_multiplikation)
+# print(ergebnis_division)
+
+# b)
+# zahl_1 = float(input("Gib die erste Zahl ein: "))
+# zahl_2 = float(input("Gib die zweite Zahl ein: "))
+ 
+# addition = zahl_1 + zahl_2
+# subtraktion = zahl_1 - zahl_2
+# multiplikation = zahl_1 * zahl_2
+# division = zahl_1 / zahl_2
+
+# print(addition)
+# print(subtraktion)
+# print(multiplikation)
+# print(division)

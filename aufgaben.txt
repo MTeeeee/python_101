@@ -66,3 +66,19 @@ b)
 Ändere den Code so, das der Nutzer zu Beginn nach den Zahl 1 und Zahl 2 gefragt wird.
 
 tipp: https://www.w3schools.com/python/python_casting.asp
+
+
+Aufgabe 5: ---------------------------
+
+Hier ist ein Code der nicht Funktioniert, es haben sich 9 Fehler eingeschlichen, kannst du sie finden?:
+
+
+Alter = input(Bitte gib dein Alter ein: )
+
+if alter =< 17 then:
+
+print(Du bist zu jung für diesen Film)
+
+else
+
+print("Viel Spaß beim Film")
