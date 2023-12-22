@@ -208,3 +208,21 @@ os.system('cls')
 # Bsp. "Es ist ein weißer BMW"
 # Dabei sollen if Bedingungen verschachtelt genutzt werden.
 # Falls Auto oder Farbe nicht bekannt sind, soll entsprechend "Auto/Farbe nicht bekannt" ausgegeben werden.
+
+
+# Aufgabe 8 : ---------------------------
+
+# Erstelle eine Variable, die counter heißt und zu Beginn den Wert 0 hat.
+# So lange counter kleiner 6 ist, soll geschrieben werden "<counter> ist kleiner als 6"
+# Dann soll der Counter um 1 erhöht werden und der Vorgang soll sich wiederholen.
+
+
+# counter = 0
+
+# while counter < 6:
+#     print(f"{counter} ist kleiner als 6")
+#     counter += 1
+    
+# while counter < 6:
+#     print(str(counter) + " ist kleiner als 6")
+#     counter += 1
