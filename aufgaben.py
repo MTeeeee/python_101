@@ -226,3 +226,72 @@ os.system('cls')
 # while counter < 6:
 #     print(str(counter) + " ist kleiner als 6")
 #     counter += 1
+
+
+# Aufgabe 9 : ---------------------------
+
+# Erstelle eine Variable mit secret_number = 42
+
+# a)
+
+# Schreibe ein Programm das den User auffordert eine Zahl zwischen 1 und 100 einzugeben.
+# Wenn die Nutzereingabe gleich der secret_number ist, soll "Richtig, Glückwunsch!" angezeigt werden. 
+# Wenn die Nutzereingabe kleiner als die secret_number ist, soll "Zu klein, bitte nochmal versuchen."
+# Wenn die Nutzereingabe größer als die secret_number ist, soll "Zu groß, bitte nochmal versuchen."
+# Bei nicht richtig Tippen, bitte wieder von Vorn.
+
+
+
+def game():
+    secret_number = 42
+    user_input = 0
+    
+    while user_input != secret_number:
+        
+        try:
+            user_input = int(input("Bitte gib eine Zahl zwischen 1 und 100 an: "))
+            
+            if user_input <= 100 and user_input >= 1:
+                if user_input == secret_number:
+                    print("Richtig, Glückwunsch!")
+                elif user_input < secret_number:
+                    print("Zu klein, bitte nochmal versuchen.")
+                else:
+                    print("Zu groß, bitte nochmal versuchen.")
+            else:
+                print("Die angegebene Zahl ist nicht zwischen 1 und 100, bitte versuche es erneut")
+            
+        except:
+            print("Eingabe nicht Gültig, bitte versuche es erneut!")
+
+game()
+
+# while True:
+    
+#     user_input = int(input("Bitte gib eine Zahl zwischen 1 und 100 an: "))
+    
+#     if user_input == secret_number:
+#         print("Richtig, Glückwunsch!")
+#         break
+#     elif user_input < secret_number:
+#         print("Zu klein, bitte nochmal versuchen.")
+#     else:
+#         print("Zu groß, bitte nochmal versuchen.")
+
+
+# while user_input != secret_number:
+    
+#     try:
+#         user_input = int(input("Bitte gib eine Zahl zwischen 1 und 100 an: "))
+        
+#         if user_input < 1 or user_input > 100:
+#             print("Die angegebene Zahl ist nicht zwischen 1 und 100, bitte versuche es erneut")
+#         elif user_input == secret_number:
+#             print("Richtig, Glückwunsch!")
+#         elif user_input < secret_number:
+#             print("Zu klein, bitte nochmal versuchen.")
+#         else:
+#             print("Zu groß, bitte nochmal versuchen.")
+#     except:
+#         print("Eingabe nicht Gültig, bitte versuche es erneut!")
+

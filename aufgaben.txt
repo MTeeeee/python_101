@@ -122,11 +122,21 @@ Erstelle eine Variable, die counter heißt und zu Beginn den Wert 0 hat.
 So lange counter kleiner 6 ist, soll geschrieben werden "<counter> ist kleiner als 6"
 Dann soll der Counter um 1 erhöht werden und der Vorgang soll sich wiederholen.
 
+
 Aufgabe 9 : ---------------------------
 
-Erstelle eine variable mit secret_number = 42
+Erstelle eine Variable mit secret_number = 42
 
-Schreibe ein Programm das den user Auffordert eine Zahl zwischen 1 und 100 einzugeben.
+a)
+
+Schreibe ein Programm das den User auffordert eine Zahl zwischen 1 und 100 einzugeben.
 Wenn die Nutzereingabe gleich der secret_number ist, soll "Richtig, Glückwunsch!" angezeigt werden. 
 Wenn die Nutzereingabe kleiner als die secret_number ist, soll "Zu klein, bitte nochmal versuchen."
 Wenn die Nutzereingabe größer als die secret_number ist, soll "Zu groß, bitte nochmal versuchen."
+Bei nicht richtig Tippen, bitte wieder von Vorn.
+
+b) optional:
+
+sollte der User eine Zahl kleiner 0 oder größer 100 eingeben -> "Eingabe nicht richtig, bitte nochmal versuchen."
+sollte der User keine Zahl eingeben -> "Eingabe nicht richtig, bitte nochmal versuchen."
+lasse die secret_number zufällig generieren
